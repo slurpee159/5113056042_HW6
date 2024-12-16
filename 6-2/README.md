@@ -1,5 +1,5 @@
 
-# README for HW6: Transfer Learning and Hugging Face Text Classification
+# Transfer Learning and Hugging Face Text Classification
 
 ## 1. Prompt: Implement Transfer Learning on VGG16 for Face Mask Detection
 
