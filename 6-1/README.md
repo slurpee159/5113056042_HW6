@@ -216,6 +216,9 @@ def text_classification():
 ```
 
 ---
+#Outputs
+![image](https://github.com/user-attachments/assets/0ff5aefc-acbe-41e6-8dc5-146e5ba6478a)
+
 
 ## Notes:
 - Ensure the dataset is structured correctly before training.
