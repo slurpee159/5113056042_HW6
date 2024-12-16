@@ -143,34 +143,13 @@ def text_classification():
 
 ---
 
-## Example Outputs
+## Outputs
 
-### Image Classification
-**Input**:
-```text
-Enter an image URL or file path for testing: /content/images/example.jpg
-```
-**Output**:
-```text
-Predicted Class: with_mask
-```
+![image](https://github.com/user-attachments/assets/abf6e0cf-09c8-4414-956c-b664a28d0bde)
 
-### Text Classification
-**Input**:
-```text
-Enter a sentence for classification: I love this product!
-```
-**Output**:
-```text
-Classification Result: [{'label': 'POSITIVE', 'score': 0.9998760223388672}]
 ```
 
 ---
 
-## Notes
-- Ensure the dataset directory contains `with_mask` and `without_mask` folders.
-- Install all required dependencies (`tensorflow`, `transformers`, etc.) before running the scripts.
-- Adjust parameters like batch size, epochs, and train-test split ratio based on requirements.
 
-## Contact
-For questions or issues, feel free to contact the project maintainer.
+
