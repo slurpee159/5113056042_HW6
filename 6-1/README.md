@@ -1,5 +1,5 @@
 
-# README for HW6: Transfer Learning with VGG16 and Hugging Face Integration
+# Transfer Learning with VGG16 and Hugging Face Integration
 
 ## 1. Prompt: How can I implement transfer learning using VGG16?
 
