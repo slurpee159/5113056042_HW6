@@ -147,9 +147,6 @@ def text_classification():
 
 ![image](https://github.com/user-attachments/assets/abf6e0cf-09c8-4414-956c-b664a28d0bde)
 
-```
-
----
 
 
 
