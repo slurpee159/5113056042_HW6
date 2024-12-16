@@ -214,7 +214,7 @@ def text_classification():
     result = classifier(text)
     print(f"Classification Result: {result}")
 
-##Outputs
+# Outputs
 ![image](https://github.com/user-attachments/assets/0ff5aefc-acbe-41e6-8dc5-146e5ba6478a)
 
 
